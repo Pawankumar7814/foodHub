@@ -20,4 +20,8 @@
     <ProjectReference Include="..\foodhub.Entities\foodhub.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="SQLScripts\" />
+  </ItemGroup>
+
 </Project>
